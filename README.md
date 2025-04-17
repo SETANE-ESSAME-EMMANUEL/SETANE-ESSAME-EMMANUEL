@@ -43,6 +43,12 @@
 
 <p align="left">I'm Setane Essame  from 🇨🇲<br><br>• 💻 I'm Fulstack developer , UX/UI designer.<br>• ✨ I enjoy discovering and learning new concepts and technologies.<br>• ☁️ I'm also passionate about Cloud and DevOps.<br>• 🌍 I'm from Yaoundé, Cameroon.<br>• ✉️ You can reach me by : setane122@gmail.com</p>
 
+### 🏆GitHub Trophies
+
+![](https://github-trophies.vercel.app/?username=SETANE-ESSAME-EMMANUEL&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+###
+
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
